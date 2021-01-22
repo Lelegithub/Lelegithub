@@ -1,7 +1,7 @@
 # Hola, I'm Benedetto 👋
 
 - 🔭 I’m currently working on NATURED a 2.5D Unity action game.
-- 🌱 I’m currently learning more about DOTS.
+- 🌱 I’m currently learning more about latest Unity Tech features.
 - 🤔 I’m looking for help with Oculus SDK documentation.
 - 💬 Ask me about Unity or any tech and Videogames related stuff.
 - 😄 Pronouns: He/His
