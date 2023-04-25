@@ -1,10 +1,8 @@
 # Hola, I'm Benedetto 👋
 
 - 🔭 I’m currently working on NATURED a 2.5D Unity action game.
-- 🌱 I’m currently learning more about latest Unity Tech features.
-- 🤔 I’m looking for help with Oculus SDK documentation.
-- 💬 Ask me about Unity or any tech and Videogames related stuff.
-- 😄 Pronouns: He/His
+- 🌱 I’m currently learning more about latest Unreal 5 VR Tech features.
+- 💬 Ask me about Unity, Unreal or any tech and Videogames related stuff.
 - ⚡ Fun fact: I run as fast as Crash Bandicoot escaping from The Giant Polar Bear
 
 [![Linkedin: benedetto-v-a2a7631b7/](https://img.shields.io/badge/-lele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedetto-v-a2a7631b7/)](https://www.linkedin.com/in/benedetto-v-a2a7631b7/)
