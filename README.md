@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Oculus SDK documentation.
 - 💬 Ask me about Unity or any tech and Videogames related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I run like Crash Bandicoot escaping from The Giant Polar Bear
+- ⚡ Fun fact: I run as fast as Crash Bandicoot escaping from The Giant Polar Bear
 
 [![Linkedin: benedetto-v-a2a7631b7/](https://img.shields.io/badge/-lele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedetto-v-a2a7631b7/)](https://www.linkedin.com/in/benedetto-v-a2a7631b7/)
 [![GitHub Lelegithub](https://img.shields.io/github/followers/Lelegithub?label=follow&style=social)](https://github.com/Lelegithub)
