@@ -1,7 +1,5 @@
 # Hola, I'm Benedetto 👋
 
-- 🔭 I’m currently working on NATURED a 2.5D Unity action game.
-- 🌱 I’m currently learning more about latest Unreal 5 VR Tech features.
 - 💬 Ask me about Unity, Unreal or any tech and Videogames related stuff.
 - ⚡ Fun fact: I run as fast as Crash Bandicoot escaping from The Giant Polar Bear
 
