@@ -1,7 +1,6 @@
 # Hola, I'm Benedetto 👋
 
-- 💬 Ask me about Unity, Unreal or any tech and Videogames related stuff.
-- ⚡ Fun fact: I run as fast as Crash Bandicoot escaping from The Giant Polar Bear
+- 💬 Ask me anything about Unity, Unreal or any videogames related stuff
 
 [![Linkedin: benedetto-v-a2a7631b7/](https://img.shields.io/badge/-lele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedetto-v-a2a7631b7/)](https://www.linkedin.com/in/benedetto-v-a2a7631b7/)
 [![GitHub Lelegithub](https://img.shields.io/github/followers/Lelegithub?label=follow&style=social)](https://github.com/Lelegithub)
