@@ -21,4 +21,40 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Lelegithub)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Lelegithub)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Lelegithub)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Lelegithub)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Lelegithub)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Lelegithub)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Lelegithub)
+
+### Technologies & Frameworks
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
+
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Lelegithub)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Lelegithub)
+
+<details>
+<p align="center">
+  <a href="https://github.com/Lelegithub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lelegithub&theme=transparent" />
+  </a>
+  <a href="https://github.com/Lelegithub">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lelegithub&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Lelegithub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lelegithub&theme=transparent" />
+  </a>
+  <a href="https://github.com/Lelegithub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelegithub&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
 </div>
