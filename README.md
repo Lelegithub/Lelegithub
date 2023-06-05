@@ -1,6 +1,6 @@
 # Hola, I'm Benedetto 👋
 
-- 💬 Ask me anything about Unity, Unreal or any videogames related stuff
+- 💬 I'm a Senior Game Developer, specialized in Networking and Optimization. Ask me anything about Unity, Unreal or any videogames related stuff!
 
 [![Linkedin: benedetto-v-a2a7631b7/](https://img.shields.io/badge/-lele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedetto-v-a2a7631b7/)](https://www.linkedin.com/in/benedetto-v-a2a7631b7/)
 [![GitHub Lelegithub](https://img.shields.io/github/followers/Lelegithub?label=follow&style=social)](https://github.com/Lelegithub)
@@ -22,10 +22,10 @@
 ### Show some ❤️ by starring some of the repositories!
 
 ### Languages
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Lelegithub)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Lelegithub)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Lelegithub)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Lelegithub)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Lelegithub)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Lelegithub)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Lelegithub)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Lelegithub)
