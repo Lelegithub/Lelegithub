@@ -1,6 +1,6 @@
 # Hola, I'm Benedetto 👋
 
-- 💬 I'm a Senior Game Developer, specialized in Networking and Optimization. 
+- 💬 I'm a Senior Game Developer, specialized in Networking and Consoles/Mobile Optimization. 
 - Ask me anything about latest Unity and Unreal engines or any videogames related stuff!
 
 [![Linkedin: benedetto-v-a2a7631b7/](https://img.shields.io/badge/-lele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedetto-v-a2a7631b7/)](https://www.linkedin.com/in/benedetto-v-a2a7631b7/)
