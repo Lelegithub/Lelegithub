@@ -41,7 +41,6 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Lelegithub)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Lelegithub)
 
-<details>
 <p align="center">
   <a href="https://github.com/Lelegithub">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lelegithub&theme=transparent" />
@@ -53,6 +52,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lelegithub&theme=transparent" />
 
 </p>
-</details>
+
 
 </div>
